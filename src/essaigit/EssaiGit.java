@@ -18,6 +18,7 @@ public class EssaiGit {
         // TODO code application logic here
         System.out.println("Essai Git Celia");
          System.out.println("Essai Git 2");
+        System.out.println("Essai Git Celia et Solen");
     }
     
 }
